@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x-holker.github.io/baccaristen-com-cn/sitemap.xml
